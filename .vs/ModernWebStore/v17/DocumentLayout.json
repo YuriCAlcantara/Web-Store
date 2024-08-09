@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649E3031-A71C-4769-9C89-5AB1636B4CE3}|ModernWebStore.Domain.Tests\\ModernWebStore.Domain.Tests.csproj|c:\\users\\yuri alcantara\\source\\repos\\modernwebstore\\modernwebstore.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649E3031-A71C-4769-9C89-5AB1636B4CE3}|ModernWebStore.Domain.Tests\\ModernWebStore.Domain.Tests.csproj|solutionrelative:modernwebstore.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|c:\\users\\yuri alcantara\\source\\repos\\modernwebstore\\modernwebstore.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|solutionrelative:modernwebstore.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|c:\\users\\yuri alcantara\\source\\repos\\modernwebstore\\modernwebstore.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|solutionrelative:modernwebstore.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|c:\\users\\yuri alcantara\\source\\repos\\modernwebstore\\modernwebstore.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|solutionrelative:modernwebstore.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4D20C-31B7-476D-99D8-1F22613BBC4A}|ModernWebStore\\ModernWebStore.csproj|c:\\users\\yuri alcantara\\source\\repos\\modernwebstore\\modernwebstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4D20C-31B7-476D-99D8-1F22613BBC4A}|ModernWebStore\\ModernWebStore.csproj|solutionrelative:modernwebstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|c:\\users\\yuri alcantara\\source\\repos\\modernwebstore\\modernwebstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|solutionrelative:modernwebstore.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|c:\\users\\yuri alcantara\\source\\repos\\modernwebstore\\modernwebstore.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|solutionrelative:modernwebstore.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|c:\\users\\yuri alcantara\\source\\repos\\modernwebstore\\modernwebstore.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFCA4E3-4317-4247-8E2E-99FC769B4833}|ModernWebStore.Domain\\ModernWebStore.Domain.csproj|solutionrelative:modernwebstore.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ModernWebStore.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ModernWebStore.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:32:05.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ModernWebStore.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "ModernWebStore.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAwwCIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:30:05.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ModernWebStore.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ModernWebStore.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:23:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ModernWebStore.Domain.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ModernWebStore.Domain.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:00:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ModernWebStore.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ModernWebStore.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:46:03.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ModernWebStore.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ModernWebStore.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:44:34.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "ModernWebStore.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore.Domain\\Class1.cs",
+              "RelativeToolTip": "ModernWebStore.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:43:25.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore\\Program.cs",
+              "RelativeDocumentMoniker": "ModernWebStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Yuri Alcantara\\source\\repos\\ModernWebStore\\ModernWebStore\\Program.cs",
+              "RelativeToolTip": "ModernWebStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:37:30.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

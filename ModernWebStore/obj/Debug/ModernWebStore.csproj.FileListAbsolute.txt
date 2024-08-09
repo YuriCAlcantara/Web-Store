@@ -1,0 +1,7 @@
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore\bin\Debug\ModernWebStore.exe.config
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore\bin\Debug\ModernWebStore.exe
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore\bin\Debug\ModernWebStore.pdb
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore\obj\Debug\ModernWebStore.csproj.AssemblyReference.cache
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore\obj\Debug\ModernWebStore.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore\obj\Debug\ModernWebStore.exe
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore\obj\Debug\ModernWebStore.pdb

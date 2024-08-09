@@ -1,0 +1,11 @@
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\bin\Debug\net8.0\ModernWebStore.Domain.deps.json
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\bin\Debug\net8.0\ModernWebStore.Domain.dll
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\bin\Debug\net8.0\ModernWebStore.Domain.pdb
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\obj\Debug\net8.0\ModernWebStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\obj\Debug\net8.0\ModernWebStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\obj\Debug\net8.0\ModernWebStore.Domain.AssemblyInfo.cs
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\obj\Debug\net8.0\ModernWebStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\obj\Debug\net8.0\ModernWebStore.Domain.dll
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\obj\Debug\net8.0\refint\ModernWebStore.Domain.dll
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\obj\Debug\net8.0\ModernWebStore.Domain.pdb
+C:\Users\Yuri Alcantara\source\repos\ModernWebStore\ModernWebStore.Domain\obj\Debug\net8.0\ref\ModernWebStore.Domain.dll
